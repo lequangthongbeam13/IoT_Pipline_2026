@@ -1,4 +1,4 @@
-# UI/UX Folder
+# Supercomputer certificate   Folder
 
 This folder contains Kajaani University of Applied Sciences course certificate.
 
