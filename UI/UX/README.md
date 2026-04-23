@@ -13,5 +13,8 @@ This folder contains 6 tasks for the *Methods for UI/UX Design* course.
 ### 3. Designing user flows
 [Open PDF](https://drive.google.com/file/d/1366ltfGj-4MwQQRZPQ3PMKP1GnUpWAHS/view?usp=sharing)
 
+### 4. Six Thingking Hats
+[Open The Slides](https://prezi.com/view/0RZfIldmpN9jZBypQ0EN/?referral_token=LYIk8ClnB3FN)
+
 
 
