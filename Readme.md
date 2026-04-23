@@ -28,5 +28,13 @@ There are a total of **6 tasks** included in this section.
 
 ---
 
+## Supercomputer Certificate folder
+This folder contains Certificate for the **Kajaani University of Applied Sciences course**.  
+
+
+[Click here to open](./Supercomputer_certificate)
+
+---
+
 ## Notes
 This repository is still being updated as I continue working on the course and projects.

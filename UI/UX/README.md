@@ -13,3 +13,5 @@ This folder contains 6 tasks for the *Methods for UI/UX Design* course.
 ### 3. Designing user flows
 [Open PDF](https://drive.google.com/file/d/1366ltfGj-4MwQQRZPQ3PMKP1GnUpWAHS/view?usp=sharing)
 
+
+
