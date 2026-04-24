@@ -25,7 +25,7 @@ test_data  = datasets.MNIST('./data', train=False, download=True, transform=tran
 train_loader = DataLoader(train_data, batch_size=64, shuffle=True)
 test_loader  = DataLoader(test_data,  batch_size=64, shuffle=False)
 
-# ── Model ────────────────────────────────────────────
+#Model
 class CNN(nn.Module):
     def __init__(self):
         super().__init__()
