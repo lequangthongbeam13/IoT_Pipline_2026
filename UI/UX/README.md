@@ -14,5 +14,11 @@ This folder contains 6 tasks for the *Methods for UI/UX Design* course.
 [Open PDF](https://drive.google.com/file/d/1366ltfGj-4MwQQRZPQ3PMKP1GnUpWAHS/view?usp=sharing)
 
 ### 4. Six Thingking Hats
+I presented this method in class.
 [Open The Slides](https://prezi.com/view/0RZfIldmpN9jZBypQ0EN/?referral_token=LYIk8ClnB3FN)
+
+### 5. Cognitive walkthrough
+[Open The PDF](https://drive.google.com/file/d/165ZjUmrwXqVrRTrvQhvJl5vSqYXuv3zq/view?usp=sharing)
+
+
 

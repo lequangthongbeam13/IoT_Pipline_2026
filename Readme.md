@@ -28,14 +28,14 @@ There are a total of **6 tasks** included in this section.
 
 ---
 
-## Supercomputer Certificate folder
+### Supercomputer Certificate folder
 This folder contains Certificate for the **Kajaani University of Applied Sciences course**.
 
 [Click here to open](./Supercomputer_certificate)
 
 ---
 
-## Running model on Supercomputer vs Local.
+### Running model on Supercomputer vs Local.
 This folder contains the model train on local, and the document compare when running model on CSC and local.
 
 [Click here to open](./ml_csc_compare_task)
