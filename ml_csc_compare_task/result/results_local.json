@@ -1,0 +1,39 @@
+{
+  "environment": "local",
+  "device": "cpu",
+  "platform": "Beams-MacBook-Air.local",
+  "total_training_time_sec": 123.9,
+  "epochs": [
+    {
+      "epoch": 1,
+      "loss": 0.137,
+      "accuracy": 98.17,
+      "time_sec": 23.8
+    },
+    {
+      "epoch": 2,
+      "loss": 0.0429,
+      "accuracy": 98.73,
+      "time_sec": 24.4
+    },
+    {
+      "epoch": 3,
+      "loss": 0.0291,
+      "accuracy": 98.99,
+      "time_sec": 25.4
+    },
+    {
+      "epoch": 4,
+      "loss": 0.0217,
+      "accuracy": 98.84,
+      "time_sec": 25.6
+    },
+    {
+      "epoch": 5,
+      "loss": 0.0161,
+      "accuracy": 98.77,
+      "time_sec": 24.7
+    }
+  ],
+  "final_accuracy": 98.77
+}

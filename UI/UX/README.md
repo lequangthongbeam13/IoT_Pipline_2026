@@ -16,5 +16,3 @@ This folder contains 6 tasks for the *Methods for UI/UX Design* course.
 ### 4. Six Thingking Hats
 [Open The Slides](https://prezi.com/view/0RZfIldmpN9jZBypQ0EN/?referral_token=LYIk8ClnB3FN)
 
-
-
