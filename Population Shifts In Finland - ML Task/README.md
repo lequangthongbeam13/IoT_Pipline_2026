@@ -66,8 +66,8 @@ K-Means clustering (k=3) groups all 308 municipalities into three types based on
 ### 6. Anomaly Detection
 Two types of unusual patterns were detected:
 
-- **Temporal** — 2023 had the highest net migration in 35 years (z=3.76), while 2022–2024 saw the deepest natural decline on record
-- **Spatial** — Sottunga is the most unusual municipality (furthest from its cluster centroid), with very high migration but zero population growth
+- **Temporal** 2023 had the highest net migration in 35 years (z=3.76), while 2022–2024 saw the deepest natural decline on record
+- **Spatial** Sottunga is the most unusual municipality (furthest from its cluster centroid), with very high migration but zero population growth
 
 ---
 
@@ -75,7 +75,7 @@ Two types of unusual patterns were detected:
 
 1. Finland's population is still growing, but only because of immigration
 2. Since 2016, deaths outnumber births every year
-3. Only 1 in 4 municipalities is actually growing — the rest are shrinking
+3. Only 1 in 4 municipalities is actually growing - the rest are shrinking
 4. Rural areas are aging fast and losing people; cities are young and attracting migrants
 5. Without continued immigration, Finland's population would begin to decline
 
