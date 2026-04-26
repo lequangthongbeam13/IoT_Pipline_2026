@@ -48,9 +48,9 @@ Direct answers to the four questions from the task:
 ### 4. Forecasting Model
 Three regression models predict national population from 2025 to 2040:
 
-- **Model A** — Linear regression, full data (1990-2024)
-- **Model B** — Linear regression, pre-spike data (1990-2021)
-- **Model C** — Polynomial regression, full data (1990-2024)
+- **Model A** Linear regression, full data (1990-2024)
+- **Model B** Linear regression, pre-spike data (1990-2021)
+- **Model C** Polynomial regression, full data (1990-2024)
 
 All three models agree: Finland's population will reach around **5.91–5.93 million by 2040**.
 
