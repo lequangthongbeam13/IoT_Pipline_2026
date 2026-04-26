@@ -16,9 +16,9 @@ We used three datasets:
 
 | Dataset | What it contains | Years |
 |---|---|---|
-| 11re | Population by age group, per municipality | 1972–2025 |
-| 12dy | Births, deaths, and natural increase | 1990–2024 |
-| 11a7 | Immigration, emigration, net migration | 1990–2024 |
+| 11re | Population by age group, per municipality | 1972-2025 |
+| 12dy | Births, deaths, and natural increase | 1990-2024 |
+| 11a7 | Immigration, emigration, net migration | 1990-2024 |
 
 These three datasets were cleaned and merged into one combined dataset covering **308 Finnish municipalities** from **1990 to 2024**.
 
@@ -32,25 +32,25 @@ Each dataset was loaded, cleaned, and reshaped from wide format to long format. 
 ### 2. Exploratory Data Analysis (EDA)
 Four charts that give a big-picture view of what's happening:
 
-- **Population growth rate** over time — with key turning points detected from data
-- **Natural increase vs net migration** — which one is driving population change?
-- **Aging vs growth scatter** — the relationship between getting older and losing people
-- **Fastest aging municipalities** — top 15 with both speed and current level
+- **Population growth rate** over time, with key turning points detected from data
+- **Natural increase vs net migration** - which one is driving population change?
+- **Aging vs growth scatter** - the relationship between getting older and losing people
+- **Fastest aging municipalities** - top 15 with both speed and current level
 
 ### 3. Interpretation
 Direct answers to the four questions from the task:
 
-- Which regions are aging fastest? → Rural municipalities, led by Rääkkylä (+16.5% aging in 10 years)
-- Which municipalities grow or decline the most? → Helsinki suburbs grow; remote rural areas shrink up to -23%
-- Birth rate vs immigration as drivers? → Migration has been the only growth driver since 2016
-- Which areas need more services? → 75 municipalities classified as "High Pressure" (old + shrinking)
+- Which regions are aging fastest? Rural municipalities, led by Rääkkylä (+16.5% aging in 10 years)
+- Which municipalities grow or decline the most? Helsinki suburbs grow; remote rural areas shrink up to -23%
+- Birth rate vs immigration as drivers? Migration has been the only growth driver since 2016
+- Which areas need more services? 75 municipalities classified as High Pressure (old + shrinking)
 
 ### 4. Forecasting Model
 Three regression models predict national population from 2025 to 2040:
 
-- **Model A** — Linear regression, full data (1990–2024)
-- **Model B** — Linear regression, pre-spike data (1990–2021)
-- **Model C** — Polynomial regression, full data (1990–2024)
+- **Model A** — Linear regression, full data (1990-2024)
+- **Model B** — Linear regression, pre-spike data (1990-2021)
+- **Model C** — Polynomial regression, full data (1990-2024)
 
 All three models agree: Finland's population will reach around **5.91–5.93 million by 2040**.
 
